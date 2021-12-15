@@ -20,7 +20,7 @@ The project is fully responsive, allowing its correct display on mobile devices,
 
 ### Links
 
-A live version of the site can be viewed through this link (UPDATE).
+A live version of this project can be viewed through [this link] (https://omnifood-fmbp.netlify.app/).
 
 ### Author
 
